@@ -1,24 +1,25 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Blog Art
 
-Things you may want to cover:
+* A Blogging Web Application initially designed for art work and paintings.
 
-* Ruby version
+* Two Componenets - User view and Creator/Blog owner interface
 
-* System dependencies
+* User view - Allows you to view posts, post comments and react to posts.
 
-* Configuration
+* Creator View - Allows you to create, publish/unpublish, delete new posts(with images and videos) and reply to comments
 
-* Database creation
 
-* Database initialization
+# Software Learnt and used
 
-* How to run the test suite
+* Ruby on Rails
+* HTML
+* CSS
+* JavaScript
+* AWS(EC2, S3)
 
-* Services (job queues, cache servers, search engines, etc.)
+# Working on:
 
-* Deployment instructions
+* Settings panel for User preferences
 
-* ...
